@@ -1,4 +1,7 @@
-Titanic Survival Prediction Using Machine Learning
+
+Titanic Survival Prediction Using Machine Learning - Logistic Regression
+
+
 Importing Libraries
 In this project, I import essential libraries that play pivotal roles in enhancing data manipulation and visualization capabilities:
 
